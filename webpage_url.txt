@@ -1,0 +1,1 @@
+https://api.gdeltproject.org/api/v2/doc/doc?query=Irma%20(britain%20OR%20british%20OR%20%22united%20kingdom%22)%20sourcelang:eng&mode=ArtGallery&timespan=1h
