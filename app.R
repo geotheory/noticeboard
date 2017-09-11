@@ -1,6 +1,6 @@
 require(shiny)
 
-# setwd("~/Documents/shinyapps.io/noticeboard")
+# setwd("~/Documents/shinyapps.io/newsboard")
 
 server <- function(input, output, session) {
   url = readLines('https://raw.githubusercontent.com/geotheory/noticeboard/master/webpage_url.txt')
